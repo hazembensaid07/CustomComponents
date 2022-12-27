@@ -1,0 +1,37 @@
+.Contact-modal-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 50px;
+    z-index: 1000;
+}
+
+.Modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+}
+
+.Contact-Modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    width: 90%;
+}
+
+.Association-flex-row {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+      
+    gap: 10px;
+        
+}

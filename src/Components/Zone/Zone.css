@@ -1,0 +1,33 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #F9F5F5;;
+}
+.text-20-black-campton{
+    text-align: center;
+    margin-top: 20px;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  
+}
+.zone-lot-item{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+   
+    margin-bottom: 0px;
+    border: 1px solid #FFFFFF;
+    border-radius: 7px !important;
+    padding: 6px !important;
+    background-color: white;
+}
+.zonebtn{
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 8px;}

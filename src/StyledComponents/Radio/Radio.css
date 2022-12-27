@@ -1,0 +1,23 @@
+.radio-out {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 2px solid #D2D5DA;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    height: 26px;
+    width: 26px;
+}
+
+.checked {
+    border: none;
+    background: #FF7868;
+}
+
+.radio-in {
+    height: 12px;
+    width: 12px;
+    border-radius: 10px;
+    background: #FFFFFF;
+}

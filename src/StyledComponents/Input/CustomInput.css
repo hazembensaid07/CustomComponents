@@ -1,0 +1,27 @@
+
+.nosearch {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    gap: 10px;
+    background-color: white;
+    border-radius: 4px;
+    margin: 20 px;
+    width:fit-content;
+   
+}
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    gap: 10px;
+    background-color: white;
+    border-radius: 4px;
+    margin: 20 px;
+    width: fit-content;
+
+}

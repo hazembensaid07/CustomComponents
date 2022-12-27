@@ -1,0 +1,26 @@
+
+.switch{
+    height: 24px;
+    min-width: 40px;
+    border-radius: 15px;
+    display: flex;
+    
+}
+
+.switchbtn{
+    height: 20px;
+    width: 20px;
+    background: #FFFFFF;
+    border-radius: 15px;
+    margin: 2px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.switchOn{
+    background: #FF7868;
+    justify-content: end;
+}
+.switchOff{
+    background: #EEEEEE;
+    justify-content: start;
+}

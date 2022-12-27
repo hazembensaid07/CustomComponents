@@ -1,0 +1,16 @@
+.checkbox {
+    height: 22px;
+    width: 22px;
+    border-radius: 4px;
+    border: 2px solid #D2D5DA;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checked {
+    border: none;
+    background: #FF7868
+}
